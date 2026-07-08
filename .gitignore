@@ -1,0 +1,9 @@
+# Raw data is large and downloadable from the source, not committed to GitHub
+raw_data/*.csv
+
+# Regenerable local database, not committed
+cleaned_data/olist.db
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
