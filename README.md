@@ -63,6 +63,6 @@ raw_data/ and the local SQLite db are not committed to this repo, they are large
 
 ## Links
 
-- Dashboard: [add Streamlit Community Cloud link after deploying]
+- Dashboard: [https://olist-delivery-risk.streamlit.app/]
 - Power BI: [add publish-to-web link after building from docs/power_bi_build_guide.md]
 - Data source: [Olist Brazilian E-Commerce dataset, Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
